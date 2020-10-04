@@ -16,6 +16,6 @@ http://www.tstat.polito.it
 
 - matplot, seaborn
 
-##Jupyter Notebook
+## Jupyter Notebook
 
  There is a log book to understand the details of data. Neural Networks and Random Forest Techniques are applied with various experiments to obtain a degree of better accuracy

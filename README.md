@@ -19,3 +19,6 @@ http://www.tstat.polito.it
 ## Jupyter Notebook
 
  There is a log book to understand the details of data. Neural Networks and Random Forest Techniques are applied with various experiments to obtain a degree of better accuracy
+ ## Conlcusion
+ 
+In our case where we have ten classes of different traffic, Randorm Fores will do it well for each class resulting in some accuracy for resemblance with a class and we can classify the flow to highest scoring trees. Problem in this case is choosing a higher estimators for proper validaiton score. for kind of data where as Neural Networks are universal approximators works better for forecasting and Image processing problems.

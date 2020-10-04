@@ -15,3 +15,7 @@ http://www.tstat.polito.it
 - numpy 1.13.3, scipy 0.19.1, pandas 0.24.1
 
 - matplot, seaborn
+
+##Jupyter Notebook
+
+ There is a log book to understand the details of data. Neural Networks and Random Forest Techniques are applied with various experiments to obtain a degree of better accuracy
